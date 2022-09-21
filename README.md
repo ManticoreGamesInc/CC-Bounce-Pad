@@ -1,31 +1,39 @@
 <div align="center">
 
-# CC-Template-Repository
+# Bounce Pad
 
-A ... component that does x.
+[![Build Status](https://github.com/ManticoreGamesInc/Bootcamp-Bounce-Pad/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/Bootcamp-Bounce-Pad/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/Bootcamp-Bounce-Pad?style=plastic)
 
-[![Build Status](https://github.com/Core-Team-META/CC-Template-Repository/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Template-Repository/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Template-Repository?style=plastic)
-
-![TitleCard](/Screenshots/REPLACE_ME.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
-Description
+The bounce pad component will allow creators to place these around the map that could be used to get to certain
+areas of the level that could be unreachable by other means.
 
-## Setup
+Bounce pads add an element of fun, and are usually great for obbys.
 
-Setup
+## How to use
 
-## Credits
+Drop the Bounce Map component into the Hierarchy. The root of the component contains various properties that can be changed.
 
-- List
-- of
-- people
+There is an example template with a very basic obby to show how this component could be used.
 
-## How to use this Template
+- **BounceStrength**
 
-- Replace every mention of `CC-Template-Repository` with your new repository name.
-- Replace every mention of `REPLACE_ME` with the correct values.
+	The strength of the velocity that will be applied to the player.
+
+- **EnableRagdollAfter**
+
+	If greater than 0, the player will be ragdolled when this duration has passed.
+
+- **Direction**
+
+	The direction of the velocity.
