@@ -15,7 +15,7 @@ This component can be found under the **CoreAcademy** account on Community Conte
 
 ## Overview
 
-The bounce pad component will allow creators to place these around the map that could be used to get to certain
+The bounce pad component will allow creators to place these around the map which could be used to get to certain
 areas of the level that could be unreachable by other means.
 
 Bounce pads add an element of fun, and are usually great for obbys.
