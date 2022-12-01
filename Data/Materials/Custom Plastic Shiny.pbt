@@ -2,7 +2,7 @@ Assets {
   Id: 9034032697571280651
   Name: "Custom Plastic Shiny"
   PlatformAssetType: 13
-  SerializationVersion: 118
+  SerializationVersion: 120
   VirtualFolderPath: "Bounce Pad"
   CustomMaterialAsset {
     BaseMaterialId: 2829516879398260913
