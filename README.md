@@ -5,7 +5,7 @@
 [![Build Status](https://github.com/ManticoreGamesInc/CC-Bounce-Pad/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Bounce-Pad/actions/workflows/ci.yml?query=workflow%3ACI%29)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Bounce-Pad?style=plastic)
 
-![Preview](/Screenshots/Core Essentials CC.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
